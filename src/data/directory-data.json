@@ -1,0 +1,2858 @@
+{
+  "generated": "2026-06-20T16:27:58Z",
+  "source": "gen-directory-data.py (live status from jambot-josh-domain-status.py)",
+  "total": 282,
+  "live": 85,
+  "categories": {
+    "Contractors & Construction": {
+      "total": 62,
+      "live": 28
+    },
+    "Equipment & Property": {
+      "total": 11,
+      "live": 10
+    },
+    "Other": {
+      "total": 135,
+      "live": 12
+    },
+    "Professional & Business": {
+      "total": 3,
+      "live": 3
+    },
+    "Specialty & High-Risk": {
+      "total": 23,
+      "live": 16
+    },
+    "Spray Foam & Insulation": {
+      "total": 13,
+      "live": 0
+    },
+    "Trucking & Auto": {
+      "total": 35,
+      "live": 16
+    }
+  },
+  "sites": [
+    {
+      "domain": "buildingmaterialdealerinsurance.com",
+      "name": "Buildingmaterialdealer Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Buildingmaterialdealer Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://buildingmaterialdealerinsurance.com",
+      "quote_url": "https://buildingmaterialdealerinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "buycontractorinsurance.com",
+      "name": "Buy Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Buy Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://buycontractorinsurance.com",
+      "quote_url": "https://buycontractorinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "commercialremodelinginsurance.com",
+      "name": "Commercialremodeling Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Commercialremodeling Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://commercialremodelinginsurance.com",
+      "quote_url": "https://commercialremodelinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "concreteliftinginsurance.com",
+      "name": "Concretelifting Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Concretelifting Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://concreteliftinginsurance.com",
+      "quote_url": "https://concreteliftinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "concreterepairinsurance.com",
+      "name": "Concreterepair Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Concreterepair Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://concreterepairinsurance.com",
+      "quote_url": "https://concreterepairinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "constructionpollutioninsurance.com",
+      "name": "Constructionpollution Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Constructionpollution Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://constructionpollutioninsurance.com",
+      "quote_url": "https://constructionpollutioninsurance.com/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "constructiontradesinsurance.com",
+      "name": "Constructiontrades Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Constructiontrades Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://constructiontradesinsurance.com",
+      "quote_url": "https://constructiontradesinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "debrisremovalinsurance.com",
+      "name": "Debrisremoval Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Debrisremoval Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://debrisremovalinsurance.com",
+      "quote_url": "https://debrisremovalinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "directionalboringinsurance.com",
+      "name": "Directionalboring Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Directionalboring Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://directionalboringinsurance.com",
+      "quote_url": "https://directionalboringinsurance.com/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "environmentalcontractorsinsurance.com",
+      "name": "Environmental Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Environmental Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://environmentalcontractorsinsurance.com",
+      "quote_url": "https://environmentalcontractorsinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "excavationcontractorinsurance.com",
+      "name": "Excavation Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Excavation Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://excavationcontractorinsurance.com",
+      "quote_url": "https://excavationcontractorinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "fireproofinginsurance.com",
+      "name": "Firep Roofing Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Firep Roofing Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://fireproofinginsurance.com",
+      "quote_url": "https://fireproofinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "foundationrepairinsurance.com",
+      "name": "Foundationrepair Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Foundationrepair Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://foundationrepairinsurance.com",
+      "quote_url": "https://foundationrepairinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "framinginsurance.com",
+      "name": "Framing Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Framing Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://framinginsurance.com",
+      "quote_url": "https://framinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "glazinginsurance.com",
+      "name": "Glazing Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Glazing Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://glazinginsurance.com",
+      "quote_url": "https://glazinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "gluelaminsurance.com",
+      "name": "Gluelam Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Gluelam Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://gluelaminsurance.com",
+      "quote_url": "https://gluelaminsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "gluelammanufacturerinsurance.com",
+      "name": "Gluelammanufacturer Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Gluelammanufacturer Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://gluelammanufacturerinsurance.com",
+      "quote_url": "https://gluelammanufacturerinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "gradinginsurance.com",
+      "name": "Grading Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Grading Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://gradinginsurance.com",
+      "quote_url": "https://gradinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "lumberjackinsurance.com",
+      "name": "Lumberjack Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Lumberjack Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://lumberjackinsurance.com",
+      "quote_url": "https://lumberjackinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "pipelinerinsurance.com",
+      "name": "Pipeliner Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Pipeliner Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://pipelinerinsurance.com",
+      "quote_url": "https://pipelinerinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "roadcontractorsinsurance.com",
+      "name": "Road Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Road Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://roadcontractorsinsurance.com",
+      "quote_url": "https://roadcontractorsinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "rolloffdumpsterinsurance.com",
+      "name": "Rolloffdumpster Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Rolloffdumpster Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://rolloffdumpsterinsurance.com",
+      "quote_url": "https://rolloffdumpsterinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "roofinginsurance.com",
+      "name": "Roofing Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Roofing Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://roofinginsurance.com",
+      "quote_url": "https://roofinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "slabjackinginsurance.com",
+      "name": "Slabjacking Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Slabjacking Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://slabjackinginsurance.com",
+      "quote_url": "https://slabjackinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "stormrestorationinsurance.com",
+      "name": "Stormrestoration Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Stormrestoration Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://stormrestorationinsurance.com",
+      "quote_url": "https://stormrestorationinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "trafficcontrolinsurance.com",
+      "name": "Trafficcontrol Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Trafficcontrol Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://trafficcontrolinsurance.com",
+      "quote_url": "https://trafficcontrolinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "trussmanufacturerinsurance.com",
+      "name": "Trussmanufacturer Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Trussmanufacturer Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://trussmanufacturerinsurance.com",
+      "quote_url": "https://trussmanufacturerinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "waterproofinginsurance.com",
+      "name": "Waterproofing Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Waterproofing Insurance \u2014 fast quotes for licensed contractors",
+      "live": true,
+      "url": "https://waterproofinginsurance.com",
+      "quote_url": "https://waterproofinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "coloradocontractorinsurance.co",
+      "name": "Colorado Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Colorado Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://coloradocontractorinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "constructionpollutionliabilityinsurance.com",
+      "name": "Constructionpollution Liability Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Constructionpollution Liability Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://constructionpollutionliabilityinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorinsurance.io",
+      "name": "Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorinsurance.io",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorinsurance.ninja",
+      "name": "Contractor Insurance.Ninja",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractor Insurance.Ninja \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorinsurance.ninja",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorinsurancediva.com",
+      "name": "Contractor Insurancediva",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractor Insurancediva \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorinsurancediva.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorinsuranceinfo.com",
+      "name": "Contractor Insuranceinfo",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractor Insuranceinfo \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorinsuranceinfo.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorinsurancenetwork.com",
+      "name": "Contractor Insurancenetwork",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractor Insurancenetwork \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorinsurancenetwork.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorinsuranceschool.com",
+      "name": "Contractor Insuranceschool",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractor Insuranceschool \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorinsuranceschool.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorspollutionliabilityinsurance.com",
+      "name": "Contractorspollution Liability Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractorspollution Liability Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorspollutionliabilityinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contractorsprofessionalliabilityinsurance.com",
+      "name": "Contractors Professional Liability Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Contractors Professional Liability Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://contractorsprofessionalliabilityinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "dampproofinginsurance.com",
+      "name": "Dampp Roofing Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Dampp Roofing Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://dampproofinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "energycontractorinsurance.com",
+      "name": "Energy Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Energy Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://energycontractorinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "framingcontractorinsurance.com",
+      "name": "Framing Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Framing Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://framingcontractorinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "industrialcontractorinsurance.com",
+      "name": "Industrial Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Industrial Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://industrialcontractorinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "industrialcontractorsinsurance.com",
+      "name": "Industrial Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Industrial Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://industrialcontractorsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "internationalcontractorsinsurance.com",
+      "name": "International Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "International Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://internationalcontractorsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "internationalcontractorsinsurancecompanyinc.com",
+      "name": "International Contractors Insurancecompanyinc",
+      "category": "Contractors & Construction",
+      "descriptor": "International Contractors Insurancecompanyinc \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://internationalcontractorsinsurancecompanyinc.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "metalerectioninsurance.com",
+      "name": "Metalerection Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Metalerection Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://metalerectioninsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "oilfieldweldinginsurance.com",
+      "name": "Oilfield Welding Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Oilfield Welding Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://oilfieldweldinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "papercontractorsinsurance.com",
+      "name": "Paper Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Paper Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://papercontractorsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "pipelinersinsurance.com",
+      "name": "Pipeliners Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Pipeliners Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://pipelinersinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "polyureainsurance.com",
+      "name": "Polyurea Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Polyurea Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://polyureainsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "projectspecificcontractorinsurance.com",
+      "name": "Projectspecific Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Projectspecific Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://projectspecificcontractorinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "projectspecificcontractorsinsurance.com",
+      "name": "Projectspecific Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Projectspecific Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://projectspecificcontractorsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "residentialremodelerinsurance.com",
+      "name": "Residentialremodeler Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Residentialremodeler Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://residentialremodelerinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "residentialremodelinginsurance.com",
+      "name": "Residentialremodeling Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Residentialremodeling Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://residentialremodelinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "roofinginsuranceagency.com",
+      "name": "Roofing Insuranceagency",
+      "category": "Contractors & Construction",
+      "descriptor": "Roofing Insuranceagency \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://roofinginsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "roofingrepairinsurance.com",
+      "name": "Roofingrepair Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Roofingrepair Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://roofingrepairinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sandblastinginsurance.com",
+      "name": "Sandblasting Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Sandblasting Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://sandblastinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sealcoatinginsurance.com",
+      "name": "Sealcoating Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Sealcoating Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://sealcoatinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "solarcontractorinsurance.com",
+      "name": "Solar Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Solar Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://solarcontractorinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "solarcontractorsinsurance.com",
+      "name": "Solar Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Solar Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://solarcontractorsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tracthomecontractorinsurance.com",
+      "name": "Tracthome Contractor Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Tracthome Contractor Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://tracthomecontractorinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tracthomecontractorsinsurance.com",
+      "name": "Tracthome Contractors Insurance",
+      "category": "Contractors & Construction",
+      "descriptor": "Tracthome Contractors Insurance \u2014 fast quotes for licensed contractors",
+      "live": false,
+      "url": "https://tracthomecontractorsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "businesspersonalpropertyinsurance.com",
+      "name": "Businesspersonal Property Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Businesspersonal Property Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://businesspersonalpropertyinsurance.com",
+      "quote_url": "https://businesspersonalpropertyinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "greasemonkeyinsurance.com",
+      "name": "Greasemonkey Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Greasemonkey Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://greasemonkeyinsurance.com",
+      "quote_url": "https://greasemonkeyinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "hoodventcleaninginsurance.com",
+      "name": "Hoodventcleaning Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Hoodventcleaning Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://hoodventcleaninginsurance.com",
+      "quote_url": "https://hoodventcleaninginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "hoodventinsurance.com",
+      "name": "Hoodvent Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Hoodvent Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://hoodventinsurance.com",
+      "quote_url": "https://hoodventinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "lessorriskinsurance.com",
+      "name": "Lessorrisk Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Lessorrisk Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://lessorriskinsurance.com",
+      "quote_url": "https://lessorriskinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "manufacturerliabilityinsurance.com",
+      "name": "Manufacturer Liability Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Manufacturer Liability Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://manufacturerliabilityinsurance.com",
+      "quote_url": "https://manufacturerliabilityinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "mobiledetailinsurance.com",
+      "name": "Mobiledetail Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Mobiledetail Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://mobiledetailinsurance.com",
+      "quote_url": "https://mobiledetailinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "mobilehomeparkinsurance.com",
+      "name": "Mobilehomepark Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Mobilehomepark Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://mobilehomeparkinsurance.com",
+      "quote_url": "https://mobilehomeparkinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "rentedequipmentinsurance.com",
+      "name": "Rented Equipment Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Rented Equipment Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://rentedequipmentinsurance.com",
+      "quote_url": "https://rentedequipmentinsurance.com/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "toolandequipmentinsurance.com",
+      "name": "Tooland Equipment Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Tooland Equipment Insurance \u2014 equipment and property protection",
+      "live": true,
+      "url": "https://toolandequipmentinsurance.com",
+      "quote_url": "https://toolandequipmentinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "equipmentrentalinsurance.com",
+      "name": "Equipmentrental Insurance",
+      "category": "Equipment & Property",
+      "descriptor": "Equipmentrental Insurance \u2014 equipment and property protection",
+      "live": false,
+      "url": "https://equipmentrentalinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "8secondinsurance.com",
+      "name": "8Second Insurance",
+      "category": "Other",
+      "descriptor": "8Second Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://8secondinsurance.com",
+      "quote_url": "https://8secondinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "ahwatukeeinsurance.com",
+      "name": "Ahwatukee Insurance",
+      "category": "Other",
+      "descriptor": "Ahwatukee Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://ahwatukeeinsurance.com",
+      "quote_url": "https://ahwatukeeinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "brrrrinsurance.com",
+      "name": "Brrrr Insurance",
+      "category": "Other",
+      "descriptor": "Brrrr Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://brrrrinsurance.com",
+      "quote_url": "https://brrrrinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "c10insurance.com",
+      "name": "C10 Insurance",
+      "category": "Other",
+      "descriptor": "C10 Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://c10insurance.com",
+      "quote_url": "https://c10insurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "crane-insurance.com",
+      "name": "Crane Insurance",
+      "category": "Other",
+      "descriptor": "Crane Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://crane-insurance.com",
+      "quote_url": "https://crane-insurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "dairy-insurance.com",
+      "name": "Dairy Insurance",
+      "category": "Other",
+      "descriptor": "Dairy Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://dairy-insurance.com",
+      "quote_url": "https://dairy-insurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "dirtworkinsurance.com",
+      "name": "Dirtwork Insurance",
+      "category": "Other",
+      "descriptor": "Dirtwork Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://dirtworkinsurance.com",
+      "quote_url": "https://dirtworkinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "epoxyinsurance.com",
+      "name": "Epoxy Insurance",
+      "category": "Other",
+      "descriptor": "Epoxy Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://epoxyinsurance.com",
+      "quote_url": "https://epoxyinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "hellcatinsurance.com",
+      "name": "Hellcat Insurance",
+      "category": "Other",
+      "descriptor": "Hellcat Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://hellcatinsurance.com",
+      "quote_url": "https://hellcatinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "talariainsurance.com",
+      "name": "Talaria Insurance",
+      "category": "Other",
+      "descriptor": "Talaria Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://talariainsurance.com",
+      "quote_url": "https://talariainsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "tellurideinsurance.com",
+      "name": "Telluride Insurance",
+      "category": "Other",
+      "descriptor": "Telluride Insurance \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://tellurideinsurance.com",
+      "quote_url": "https://tellurideinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "tucsoninsuranceagency.com",
+      "name": "Tucson Insuranceagency",
+      "category": "Other",
+      "descriptor": "Tucson Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": true,
+      "url": "https://tucsoninsuranceagency.com",
+      "quote_url": "https://tucsoninsuranceagency.com/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "americanmadeinsurance.com",
+      "name": "Americanmade Insurance",
+      "category": "Other",
+      "descriptor": "Americanmade Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://americanmadeinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "bedlinerinsurance.com",
+      "name": "Bedliner Insurance",
+      "category": "Other",
+      "descriptor": "Bedliner Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://bedlinerinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "bestdamnrooferinsurance.com",
+      "name": "Bestdamnroofer Insurance",
+      "category": "Other",
+      "descriptor": "Bestdamnroofer Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://bestdamnrooferinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "bppinsurance.com",
+      "name": "Bpp Insurance",
+      "category": "Other",
+      "descriptor": "Bpp Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://bppinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "brrrrinsurance.co",
+      "name": "Brrrr Insurance",
+      "category": "Other",
+      "descriptor": "Brrrr Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://brrrrinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "brrrrinsurance.net",
+      "name": "Brrrr Insurance",
+      "category": "Other",
+      "descriptor": "Brrrr Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://brrrrinsurance.net",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "brrrrinsurance.org",
+      "name": "Brrrr Insurance",
+      "category": "Other",
+      "descriptor": "Brrrr Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://brrrrinsurance.org",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "chandlerinsuranceagency.com",
+      "name": "Chandler Insuranceagency",
+      "category": "Other",
+      "descriptor": "Chandler Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://chandlerinsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "chandlerinsurancebroker.com",
+      "name": "Chandler Insurancebroker",
+      "category": "Other",
+      "descriptor": "Chandler Insurancebroker \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://chandlerinsurancebroker.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "coatinginsurance.com",
+      "name": "Coating Insurance",
+      "category": "Other",
+      "descriptor": "Coating Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://coatinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "coatingsinsurance.com",
+      "name": "Coatings Insurance",
+      "category": "Other",
+      "descriptor": "Coatings Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://coatingsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "codinginsurance.com",
+      "name": "Coding Insurance",
+      "category": "Other",
+      "descriptor": "Coding Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://codinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "contratistaseguro.com",
+      "name": "Contratistaseguro",
+      "category": "Other",
+      "descriptor": "Contratistaseguro \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://contratistaseguro.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "dairyinsurance.co",
+      "name": "Dairy Insurance",
+      "category": "Other",
+      "descriptor": "Dairy Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://dairyinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "devilinsurance.com",
+      "name": "Devil Insurance",
+      "category": "Other",
+      "descriptor": "Devil Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://devilinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "drafterinsurance.com",
+      "name": "Drafter Insurance",
+      "category": "Other",
+      "descriptor": "Drafter Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://drafterinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "duallyinsurance.com",
+      "name": "Dually Insurance",
+      "category": "Other",
+      "descriptor": "Dually Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://duallyinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "eandsinsurance.com",
+      "name": "Eands Insurance",
+      "category": "Other",
+      "descriptor": "Eands Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://eandsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "engraverinsurance.com",
+      "name": "Engraver Insurance",
+      "category": "Other",
+      "descriptor": "Engraver Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://engraverinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "escalatorinsurance.com",
+      "name": "Escalator Insurance",
+      "category": "Other",
+      "descriptor": "Escalator Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://escalatorinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "fencinginsurance.com",
+      "name": "Fencing Insurance",
+      "category": "Other",
+      "descriptor": "Fencing Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://fencinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "flagstaffinsuranceagency.com",
+      "name": "Flagstaff Insuranceagency",
+      "category": "Other",
+      "descriptor": "Flagstaff Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://flagstaffinsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "ghostworkerscompensationinsurance.com",
+      "name": "Ghost Workers Compensation Insurance",
+      "category": "Other",
+      "descriptor": "Ghost Workers Compensation Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://ghostworkerscompensationinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "ghostworkerscompinsurance.com",
+      "name": "Ghost Workerscomp Insurance",
+      "category": "Other",
+      "descriptor": "Ghost Workerscomp Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://ghostworkerscompinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "glassblowinginsurance.com",
+      "name": "Glassblowing Insurance",
+      "category": "Other",
+      "descriptor": "Glassblowing Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://glassblowinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "havasupaiinsurance.com",
+      "name": "Havasupai Insurance",
+      "category": "Other",
+      "descriptor": "Havasupai Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://havasupaiinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hibachiinsurance.com",
+      "name": "Hibachi Insurance",
+      "category": "Other",
+      "descriptor": "Hibachi Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://hibachiinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "historicbuildinginsurance.com",
+      "name": "Historicbuilding Insurance",
+      "category": "Other",
+      "descriptor": "Historicbuilding Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://historicbuildinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hobbylocomotiveinsurance.com",
+      "name": "Hobbylocomotive Insurance",
+      "category": "Other",
+      "descriptor": "Hobbylocomotive Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://hobbylocomotiveinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hookliftinsurance.com",
+      "name": "Hooklift Insurance",
+      "category": "Other",
+      "descriptor": "Hooklift Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://hookliftinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hooniganinsurance.com",
+      "name": "Hoonigan Insurance",
+      "category": "Other",
+      "descriptor": "Hoonigan Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://hooniganinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hydroponicinsurance.com",
+      "name": "Hydroponic Insurance",
+      "category": "Other",
+      "descriptor": "Hydroponic Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://hydroponicinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "iceclimbinsurance.com",
+      "name": "Iceclimb Insurance",
+      "category": "Other",
+      "descriptor": "Iceclimb Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://iceclimbinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "importcarinsurance.co",
+      "name": "Importcar Insurance",
+      "category": "Other",
+      "descriptor": "Importcar Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://importcarinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "industrialcoatinginsurance.com",
+      "name": "Industrialcoating Insurance",
+      "category": "Other",
+      "descriptor": "Industrialcoating Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://industrialcoatinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "industrialcoatingsinsurance.com",
+      "name": "Industrialcoatings Insurance",
+      "category": "Other",
+      "descriptor": "Industrialcoatings Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://industrialcoatingsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "insuranceauctioneers.com",
+      "name": "Insuranceauctioneers",
+      "category": "Other",
+      "descriptor": "Insuranceauctioneers \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://insuranceauctioneers.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "insuranceendorsements.com",
+      "name": "Insuranceendorsements",
+      "category": "Other",
+      "descriptor": "Insuranceendorsements \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://insuranceendorsements.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "insuranceinfographics.com",
+      "name": "Insuranceinfographics",
+      "category": "Other",
+      "descriptor": "Insuranceinfographics \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://insuranceinfographics.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "insurancekiosks.com",
+      "name": "Insurancekiosks",
+      "category": "Other",
+      "descriptor": "Insurancekiosks \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://insurancekiosks.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "insurancenative.com",
+      "name": "Insurancenative",
+      "category": "Other",
+      "descriptor": "Insurancenative \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://insurancenative.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "internationalinsuranceagency.co",
+      "name": "International Insuranceagency",
+      "category": "Other",
+      "descriptor": "International Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://internationalinsuranceagency.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "internationalinsuranceagency.info",
+      "name": "International Insuranceagency",
+      "category": "Other",
+      "descriptor": "International Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://internationalinsuranceagency.info",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "internationalinsuranceagency.us",
+      "name": "International Insuranceagency",
+      "category": "Other",
+      "descriptor": "International Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://internationalinsuranceagency.us",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "jewelerinsurance.com",
+      "name": "Jeweler Insurance",
+      "category": "Other",
+      "descriptor": "Jeweler Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://jewelerinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "licensedbondedinsured.biz",
+      "name": "Licensedbondedinsured",
+      "category": "Other",
+      "descriptor": "Licensedbondedinsured \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://licensedbondedinsured.biz",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "licensedbondedinsured.co",
+      "name": "Licensedbondedinsured",
+      "category": "Other",
+      "descriptor": "Licensedbondedinsured \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://licensedbondedinsured.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "licensedbondedinsured.info",
+      "name": "Licensedbondedinsured",
+      "category": "Other",
+      "descriptor": "Licensedbondedinsured \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://licensedbondedinsured.info",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "licensedbondedinsured.net",
+      "name": "Licensedbondedinsured",
+      "category": "Other",
+      "descriptor": "Licensedbondedinsured \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://licensedbondedinsured.net",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "licensedbondedinsured.org",
+      "name": "Licensedbondedinsured",
+      "category": "Other",
+      "descriptor": "Licensedbondedinsured \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://licensedbondedinsured.org",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "locomotiveinsurance.com",
+      "name": "Locomotive Insurance",
+      "category": "Other",
+      "descriptor": "Locomotive Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://locomotiveinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "lozinsurance.com",
+      "name": "Loz Insurance",
+      "category": "Other",
+      "descriptor": "Loz Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://lozinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "manufacturedproductinsurance.com",
+      "name": "Manufacturedproduct Insurance",
+      "category": "Other",
+      "descriptor": "Manufacturedproduct Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://manufacturedproductinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "manufacturedproductsinsurance.com",
+      "name": "Manufacturedproducts Insurance",
+      "category": "Other",
+      "descriptor": "Manufacturedproducts Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://manufacturedproductsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "mexicoinsuranceagency.com",
+      "name": "Mexico Insuranceagency",
+      "category": "Other",
+      "descriptor": "Mexico Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://mexicoinsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "motocrosstrackinsurance.com",
+      "name": "Motocrosstrack Insurance",
+      "category": "Other",
+      "descriptor": "Motocrosstrack Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://motocrosstrackinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "motorcycleparkinsurance.com",
+      "name": "Motorcyclepark Insurance",
+      "category": "Other",
+      "descriptor": "Motorcyclepark Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://motorcycleparkinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "motorcycletrackinsurance.com",
+      "name": "Motorcycletrack Insurance",
+      "category": "Other",
+      "descriptor": "Motorcycletrack Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://motorcycletrackinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "movietheaterinsurance.com",
+      "name": "Movietheater Insurance",
+      "category": "Other",
+      "descriptor": "Movietheater Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://movietheaterinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "musicproducerinsurance.com",
+      "name": "Musicproducer Insurance",
+      "category": "Other",
+      "descriptor": "Musicproducer Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://musicproducerinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "navajoinsurance.com",
+      "name": "Navajo Insurance",
+      "category": "Other",
+      "descriptor": "Navajo Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://navajoinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "nginsuranceonline.com",
+      "name": "Ng Insuranceonline",
+      "category": "Other",
+      "descriptor": "Ng Insuranceonline \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://nginsuranceonline.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "northernarizonainsurance.com",
+      "name": "Northernarizona Insurance",
+      "category": "Other",
+      "descriptor": "Northernarizona Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://northernarizonainsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "on-chaininsurance.com",
+      "name": "On Chain Insurance",
+      "category": "Other",
+      "descriptor": "On Chain Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://on-chaininsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "paraglidinginsurance.com",
+      "name": "Paragliding Insurance",
+      "category": "Other",
+      "descriptor": "Paragliding Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://paraglidinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "paysoninsuranceagency.com",
+      "name": "Payson Insuranceagency",
+      "category": "Other",
+      "descriptor": "Payson Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://paysoninsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "petrolianainsurance.com",
+      "name": "Petroliana Insurance",
+      "category": "Other",
+      "descriptor": "Petroliana Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://petrolianainsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "pimainsurance.online",
+      "name": "Pima Insurance",
+      "category": "Other",
+      "descriptor": "Pima Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://pimainsurance.online",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "pontooninsurance.com",
+      "name": "Pontoon Insurance",
+      "category": "Other",
+      "descriptor": "Pontoon Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://pontooninsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "potteryinsurance.com",
+      "name": "Pottery Insurance",
+      "category": "Other",
+      "descriptor": "Pottery Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://potteryinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "presssurewashinsurance.com",
+      "name": "Presssurewash Insurance",
+      "category": "Other",
+      "descriptor": "Presssurewash Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://presssurewashinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "puainsurance.com",
+      "name": "Pua Insurance",
+      "category": "Other",
+      "descriptor": "Pua Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://puainsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "puroseguro.com",
+      "name": "Puroseguro",
+      "category": "Other",
+      "descriptor": "Puroseguro \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://puroseguro.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "pythoninsurance.com",
+      "name": "Python Insurance",
+      "category": "Other",
+      "descriptor": "Python Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://pythoninsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "remediationinsurance.com",
+      "name": "Remediation Insurance",
+      "category": "Other",
+      "descriptor": "Remediation Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://remediationinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "resthomeinsurance.com",
+      "name": "Resthome Insurance",
+      "category": "Other",
+      "descriptor": "Resthome Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://resthomeinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "roadpavinginsurance.com",
+      "name": "Roadpaving Insurance",
+      "category": "Other",
+      "descriptor": "Roadpaving Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://roadpavinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "rzrinsurance.com",
+      "name": "Rzr Insurance",
+      "category": "Other",
+      "descriptor": "Rzr Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://rzrinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sandbuggyinsurance.com",
+      "name": "Sandbuggy Insurance",
+      "category": "Other",
+      "descriptor": "Sandbuggy Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sandbuggyinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "scooterinsurance.co",
+      "name": "Scooter Insurance",
+      "category": "Other",
+      "descriptor": "Scooter Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://scooterinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sedonainsurance.com",
+      "name": "Sedona Insurance",
+      "category": "Other",
+      "descriptor": "Sedona Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sedonainsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sedonainsuranceagency.co",
+      "name": "Sedona Insuranceagency",
+      "category": "Other",
+      "descriptor": "Sedona Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sedonainsuranceagency.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sedonainsuranceagent.com",
+      "name": "Sedona Insuranceagent",
+      "category": "Other",
+      "descriptor": "Sedona Insuranceagent \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sedonainsuranceagent.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sedonainsurancebroker.com",
+      "name": "Sedona Insurancebroker",
+      "category": "Other",
+      "descriptor": "Sedona Insurancebroker \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sedonainsurancebroker.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "seguromexicano.com",
+      "name": "Seguromexicano",
+      "category": "Other",
+      "descriptor": "Seguromexicano \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://seguromexicano.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "selfstorageinsurance.co",
+      "name": "Selfstorage Insurance",
+      "category": "Other",
+      "descriptor": "Selfstorage Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://selfstorageinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "shoringinsurance.com",
+      "name": "Shoring Insurance",
+      "category": "Other",
+      "descriptor": "Shoring Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://shoringinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "smokeshopinsurance.co",
+      "name": "Smokeshop Insurance",
+      "category": "Other",
+      "descriptor": "Smokeshop Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://smokeshopinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "snowflakeinsurance.com",
+      "name": "Snowflake Insurance",
+      "category": "Other",
+      "descriptor": "Snowflake Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://snowflakeinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "spf-insurance.com",
+      "name": "Spf Insurance",
+      "category": "Other",
+      "descriptor": "Spf Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://spf-insurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sportfishinginsurance.com",
+      "name": "Sportfishing Insurance",
+      "category": "Other",
+      "descriptor": "Sportfishing Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sportfishinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sportsteaminsurance.com",
+      "name": "Sportsteam Insurance",
+      "category": "Other",
+      "descriptor": "Sportsteam Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sportsteaminsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayinsurance.com",
+      "name": "Spray Insurance",
+      "category": "Other",
+      "descriptor": "Spray Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sprayinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "ssvinsurance.com",
+      "name": "Ssv Insurance",
+      "category": "Other",
+      "descriptor": "Ssv Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://ssvinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "steamlocomotiveinsurance.com",
+      "name": "Steamlocomotive Insurance",
+      "category": "Other",
+      "descriptor": "Steamlocomotive Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://steamlocomotiveinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "studentathleteinsurance.com",
+      "name": "Studentathlete Insurance",
+      "category": "Other",
+      "descriptor": "Studentathlete Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://studentathleteinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sunlakesinsurance.com",
+      "name": "Sunlakes Insurance",
+      "category": "Other",
+      "descriptor": "Sunlakes Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sunlakesinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sunlakesinsuranceagency.com",
+      "name": "Sunlakes Insuranceagency",
+      "category": "Other",
+      "descriptor": "Sunlakes Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sunlakesinsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sunlakesinsuranceagent.com",
+      "name": "Sunlakes Insuranceagent",
+      "category": "Other",
+      "descriptor": "Sunlakes Insuranceagent \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sunlakesinsuranceagent.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sunlakesinsurancebroker.com",
+      "name": "Sunlakes Insurancebroker",
+      "category": "Other",
+      "descriptor": "Sunlakes Insurancebroker \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sunlakesinsurancebroker.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "surveillanceinsurance.com",
+      "name": "Surveillance Insurance",
+      "category": "Other",
+      "descriptor": "Surveillance Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://surveillanceinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sxsrentalinsurance.com",
+      "name": "Sxsrental Insurance",
+      "category": "Other",
+      "descriptor": "Sxsrental Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://sxsrentalinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tellurideinsurance.co",
+      "name": "Telluride Insurance",
+      "category": "Other",
+      "descriptor": "Telluride Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://tellurideinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tellurideinsuranceagent.com",
+      "name": "Telluride Insuranceagent",
+      "category": "Other",
+      "descriptor": "Telluride Insuranceagent \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://tellurideinsuranceagent.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tellurideinsurancebroker.com",
+      "name": "Telluride Insurancebroker",
+      "category": "Other",
+      "descriptor": "Telluride Insurancebroker \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://tellurideinsurancebroker.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "teppanyakiinsurance.com",
+      "name": "Teppanyaki Insurance",
+      "category": "Other",
+      "descriptor": "Teppanyaki Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://teppanyakiinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tombstoneinsurance.com",
+      "name": "Tombstone Insurance",
+      "category": "Other",
+      "descriptor": "Tombstone Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://tombstoneinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "toterhomeinsurance.com",
+      "name": "Toterhome Insurance",
+      "category": "Other",
+      "descriptor": "Toterhome Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://toterhomeinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "toxicinsurance.com",
+      "name": "Toxic Insurance",
+      "category": "Other",
+      "descriptor": "Toxic Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://toxicinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tracthomeinsurance.com",
+      "name": "Tracthome Insurance",
+      "category": "Other",
+      "descriptor": "Tracthome Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://tracthomeinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "tunercarinsurance.com",
+      "name": "Tunercar Insurance",
+      "category": "Other",
+      "descriptor": "Tunercar Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://tunercarinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "underinsuredmotoristinsurance.com",
+      "name": "Underinsuredmotorist Insurance",
+      "category": "Other",
+      "descriptor": "Underinsuredmotorist Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://underinsuredmotoristinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "unmannedaircraftsystemsinsurance.com",
+      "name": "Unmannedaircraftsystems Insurance",
+      "category": "Other",
+      "descriptor": "Unmannedaircraftsystems Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://unmannedaircraftsystemsinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "vacationliabilityinsurance.com",
+      "name": "Vacation Liability Insurance",
+      "category": "Other",
+      "descriptor": "Vacation Liability Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://vacationliabilityinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "vibecodinginsurance.com",
+      "name": "Vibecoding Insurance",
+      "category": "Other",
+      "descriptor": "Vibecoding Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://vibecodinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "virtualinsuranceagent.io",
+      "name": "Virtual Insuranceagent",
+      "category": "Other",
+      "descriptor": "Virtual Insuranceagent \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://virtualinsuranceagent.io",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "virtualinsurancebroker.io",
+      "name": "Virtual Insurancebroker",
+      "category": "Other",
+      "descriptor": "Virtual Insurancebroker \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://virtualinsurancebroker.io",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "webappinsurance.com",
+      "name": "Webapp Insurance",
+      "category": "Other",
+      "descriptor": "Webapp Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://webappinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "weedinsuranceagency.com",
+      "name": "Weed Insuranceagency",
+      "category": "Other",
+      "descriptor": "Weed Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://weedinsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "whittmaninsuranceagency.com",
+      "name": "Whittman Insuranceagency",
+      "category": "Other",
+      "descriptor": "Whittman Insuranceagency \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://whittmaninsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "wickenburginsurance.com",
+      "name": "Wickenburg Insurance",
+      "category": "Other",
+      "descriptor": "Wickenburg Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://wickenburginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "workhorseinsurance.com",
+      "name": "Workhorse Insurance",
+      "category": "Other",
+      "descriptor": "Workhorse Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://workhorseinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "wrapinstallerinsurance.com",
+      "name": "Wrapinstaller Insurance",
+      "category": "Other",
+      "descriptor": "Wrapinstaller Insurance \u2014 specialty insurance, fast quote",
+      "live": false,
+      "url": "https://wrapinstallerinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "accountreceivablesinsurance.com",
+      "name": "Accountreceivables Insurance",
+      "category": "Professional & Business",
+      "descriptor": "Accountreceivables Insurance \u2014 professional liability and business coverage",
+      "live": true,
+      "url": "https://accountreceivablesinsurance.com",
+      "quote_url": "https://accountreceivablesinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "bookkeeperinsurance.online",
+      "name": "Bookkeeper Insurance",
+      "category": "Professional & Business",
+      "descriptor": "Bookkeeper Insurance \u2014 professional liability and business coverage",
+      "live": true,
+      "url": "https://bookkeeperinsurance.online",
+      "quote_url": "https://bookkeeperinsurance.online/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "bookkeepinginsurance.com",
+      "name": "Bookkeeping Insurance",
+      "category": "Professional & Business",
+      "descriptor": "Bookkeeping Insurance \u2014 professional liability and business coverage",
+      "live": true,
+      "url": "https://bookkeepinginsurance.com",
+      "quote_url": "https://bookkeepinginsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "barandnightclubinsurance.com",
+      "name": "Barandnightclub Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Barandnightclub Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://barandnightclubinsurance.com",
+      "quote_url": "https://barandnightclubinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "bungeejumpinsurance.com",
+      "name": "Bungeejump Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Bungeejump Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://bungeejumpinsurance.com",
+      "quote_url": "https://bungeejumpinsurance.com/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "cannabisinsurance.co",
+      "name": "Cannabis Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Cannabis Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://cannabisinsurance.co",
+      "quote_url": "https://cannabisinsurance.co/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "cheerinsurance.com",
+      "name": "Cheer Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Cheer Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://cheerinsurance.com",
+      "quote_url": "https://cheerinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "concessionaireinsurance.com",
+      "name": "Concessionaire Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Concessionaire Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://concessionaireinsurance.com",
+      "quote_url": "https://concessionaireinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "fightclubinsurance.com",
+      "name": "Fightclub Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Fightclub Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://fightclubinsurance.com",
+      "quote_url": "https://fightclubinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "froyoinsurance.com",
+      "name": "Froyo Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Froyo Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://froyoinsurance.com",
+      "quote_url": "https://froyoinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "glamisinsurance.com",
+      "name": "Glamis Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Glamis Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://glamisinsurance.com",
+      "quote_url": "https://glamisinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "gunrangeinsurance.co",
+      "name": "Gunrange Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Gunrange Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://gunrangeinsurance.co",
+      "quote_url": "https://gunrangeinsurance.co/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "gymnasticsschoolinsurance.com",
+      "name": "Gymnasticsschool Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Gymnasticsschool Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://gymnasticsschoolinsurance.com",
+      "quote_url": "https://gymnasticsschoolinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "lawenforcementliabilityinsurance.com",
+      "name": "Lawenforcement Liability Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Lawenforcement Liability Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://lawenforcementliabilityinsurance.com",
+      "quote_url": "https://lawenforcementliabilityinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "politicalriskinsurance.com",
+      "name": "Politicalrisk Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Politicalrisk Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://politicalriskinsurance.com",
+      "quote_url": "https://politicalriskinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "shootingrangeinsurance.com",
+      "name": "Shootingrange Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Shootingrange Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://shootingrangeinsurance.com",
+      "quote_url": "https://shootingrangeinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "surroninsurance.com",
+      "name": "Surron Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Surron Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://surroninsurance.com",
+      "quote_url": "https://surroninsurance.com/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "teryxinsurance.com",
+      "name": "Teryx Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Teryx Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://teryxinsurance.com",
+      "quote_url": "https://teryxinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "ufcinsurance.com",
+      "name": "Ufc Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Ufc Insurance \u2014 specialty coverage for high-risk operations",
+      "live": true,
+      "url": "https://ufcinsurance.com",
+      "quote_url": "https://ufcinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "cannabisinsuranceagent.com",
+      "name": "Cannabis Insuranceagent",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Cannabis Insuranceagent \u2014 specialty coverage for high-risk operations",
+      "live": false,
+      "url": "https://cannabisinsuranceagent.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "cannabisinsurancebroker.com",
+      "name": "Cannabis Insurancebroker",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Cannabis Insurancebroker \u2014 specialty coverage for high-risk operations",
+      "live": false,
+      "url": "https://cannabisinsurancebroker.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "cheergyminsurance.com",
+      "name": "Cheergym Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Cheergym Insurance \u2014 specialty coverage for high-risk operations",
+      "live": false,
+      "url": "https://cheergyminsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "glamisinsurance.co",
+      "name": "Glamis Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Glamis Insurance \u2014 specialty coverage for high-risk operations",
+      "live": false,
+      "url": "https://glamisinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "glamisinsurance.info",
+      "name": "Glamis Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Glamis Insurance \u2014 specialty coverage for high-risk operations",
+      "live": false,
+      "url": "https://glamisinsurance.info",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "glamisinsurance.us",
+      "name": "Glamis Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Glamis Insurance \u2014 specialty coverage for high-risk operations",
+      "live": false,
+      "url": "https://glamisinsurance.us",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "gunrangeinsurance.com",
+      "name": "Gunrange Insurance",
+      "category": "Specialty & High-Risk",
+      "descriptor": "Gunrange Insurance \u2014 specialty coverage for high-risk operations",
+      "live": false,
+      "url": "https://gunrangeinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "barndoinsurance.com",
+      "name": "Barndo Insurance",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Barndo Insurance \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://barndoinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "barndominiuminsurance.com",
+      "name": "Barndominium Insurance",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Barndominium Insurance \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://barndominiuminsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "canadiansprayfoaminsurance.com",
+      "name": "Canadian Spray Foam Insurance",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Canadian Spray Foam Insurance \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://canadiansprayfoaminsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "insulationinsurance.com",
+      "name": "Insulation Insurance",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Insulation Insurance \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://insulationinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoaminsurance.com",
+      "name": "Spray Foam Insurance",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foam Insurance \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoaminsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoaminsuranceagency.com",
+      "name": "Spray Foam Insuranceagency",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foam Insuranceagency \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoaminsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoaminsuranceagent.com",
+      "name": "Spray Foam Insuranceagent",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foam Insuranceagent \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoaminsuranceagent.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoaminsurancebroker.com",
+      "name": "Spray Foam Insurancebroker",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foam Insurancebroker \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoaminsurancebroker.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoaminsurancecarrier.com",
+      "name": "Spray Foam Insurancecarrier",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foam Insurancecarrier \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoaminsurancecarrier.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoaminsurancecompany.com",
+      "name": "Spray Foam Insurancecompany",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foam Insurancecompany \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoaminsurancecompany.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoamriginsurance.com",
+      "name": "Spray Foamrig Insurance",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foamrig Insurance \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoamriginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "sprayfoamroofinginsurance.com",
+      "name": "Spray Foam Roofing Insurance",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "Spray Foam Roofing Insurance \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://sprayfoamroofinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "thesprayfoaminsuranceguy.com",
+      "name": "The Spray Foam Insuranceguy",
+      "category": "Spray Foam & Insulation",
+      "descriptor": "The Spray Foam Insuranceguy \u2014 spray foam and insulation contractor coverage",
+      "live": false,
+      "url": "https://thesprayfoaminsuranceguy.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "boatrepairinsurance.com",
+      "name": "Boatrepair Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Boatrepair Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://boatrepairinsurance.com",
+      "quote_url": "https://boatrepairinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "boatyardinsurance.com",
+      "name": "Boatyard Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Boatyard Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://boatyardinsurance.com",
+      "quote_url": "https://boatyardinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "cabincruiserinsurance.com",
+      "name": "Cabincruiser Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Cabincruiser Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://cabincruiserinsurance.com",
+      "quote_url": "https://cabincruiserinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "dirtbikeinsurance.com",
+      "name": "Dirtbike Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Dirtbike Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://dirtbikeinsurance.com",
+      "quote_url": "https://dirtbikeinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "hiredautoinsurance.com",
+      "name": "Hired Auto Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Hired Auto Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://hiredautoinsurance.com",
+      "quote_url": "https://hiredautoinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "hirednonownedautoinsurance.com",
+      "name": "Hirednonowned Auto Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Hirednonowned Auto Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://hirednonownedautoinsurance.com",
+      "quote_url": "https://hirednonownedautoinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "hotshotinsurance.com",
+      "name": "Hotshot Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Hotshot Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://hotshotinsurance.com",
+      "quote_url": "https://hotshotinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "hotshottruckersinsurance.com",
+      "name": "Hotshottruckers Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Hotshottruckers Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://hotshottruckersinsurance.com",
+      "quote_url": "https://hotshottruckersinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "independenttruckerinsurance.com",
+      "name": "Independenttrucker Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Independenttrucker Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://independenttruckerinsurance.com",
+      "quote_url": "https://independenttruckerinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "marinacontractorinsurance.com",
+      "name": "Marina Contractor Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Marina Contractor Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://marinacontractorinsurance.com",
+      "quote_url": "https://marinacontractorinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "minibikeinsurance.com",
+      "name": "Minibike Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Minibike Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://minibikeinsurance.com",
+      "quote_url": "https://minibikeinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "minitruckinsurance.com",
+      "name": "Minitruck Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Minitruck Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://minitruckinsurance.com",
+      "quote_url": "https://minitruckinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "musclecarinsurance.com",
+      "name": "Musclecar Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Musclecar Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://musclecarinsurance.com",
+      "quote_url": "https://musclecarinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "truckandtrailerinsurance.com",
+      "name": "Truckandtrailer Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Truckandtrailer Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://truckandtrailerinsurance.com",
+      "quote_url": "https://truckandtrailerinsurance.com/#quote",
+      "lead_ready": false
+    },
+    {
+      "domain": "truckercargoinsurance.com",
+      "name": "Truckercargo Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Truckercargo Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://truckercargoinsurance.com",
+      "quote_url": "https://truckercargoinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "vanlifeinsurance.com",
+      "name": "Vanlife Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Vanlife Insurance \u2014 commercial auto and trucking coverage",
+      "live": true,
+      "url": "https://vanlifeinsurance.com",
+      "quote_url": "https://vanlifeinsurance.com/#quote",
+      "lead_ready": true
+    },
+    {
+      "domain": "adventurebikeinsurance.com",
+      "name": "Adventurebike Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Adventurebike Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://adventurebikeinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "customtruckinsurance.com",
+      "name": "Customtruck Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Customtruck Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://customtruckinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hotshottruckerinsurance.com",
+      "name": "Hotshottrucker Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Hotshottrucker Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://hotshottruckerinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hotshottruckinginsurance.com",
+      "name": "Hotshot Trucking Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Hotshot Trucking Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://hotshottruckinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "hotshottruckinsurance.com",
+      "name": "Hotshottruck Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Hotshottruck Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://hotshottruckinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "independenttruckinginsurance.com",
+      "name": "Independent Trucking Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Independent Trucking Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://independenttruckinginsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "independenttruckinsurance.com",
+      "name": "Independenttruck Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Independenttruck Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://independenttruckinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "jeepinsurance.co",
+      "name": "Jeep Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Jeep Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://jeepinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "jeepinsuranceagency.com",
+      "name": "Jeep Insuranceagency",
+      "category": "Trucking & Auto",
+      "descriptor": "Jeep Insuranceagency \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://jeepinsuranceagency.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "liftedtruckinsurance.com",
+      "name": "Liftedtruck Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Liftedtruck Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://liftedtruckinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "marinacontractorinsurance.co",
+      "name": "Marina Contractor Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Marina Contractor Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://marinacontractorinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "marinacontractorinsurance.info",
+      "name": "Marina Contractor Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Marina Contractor Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://marinacontractorinsurance.info",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "marinacontractorinsurance.org",
+      "name": "Marina Contractor Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Marina Contractor Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://marinacontractorinsurance.org",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "marinainsurance.co",
+      "name": "Marina Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Marina Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://marinainsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "toyhaulerinsurance.com",
+      "name": "Toyhauler Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Toyhauler Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://toyhaulerinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "trailerrentalinsurance.com",
+      "name": "Trailerrental Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Trailerrental Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://trailerrentalinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "truckinggeneralliabilityinsurance.com",
+      "name": "Truckinggeneral Liability Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Truckinggeneral Liability Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://truckinggeneralliabilityinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "wakeboatinsurance.co",
+      "name": "Wakeboat Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Wakeboat Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://wakeboatinsurance.co",
+      "quote_url": null,
+      "lead_ready": false
+    },
+    {
+      "domain": "wakeboatinsurance.com",
+      "name": "Wakeboat Insurance",
+      "category": "Trucking & Auto",
+      "descriptor": "Wakeboat Insurance \u2014 commercial auto and trucking coverage",
+      "live": false,
+      "url": "https://wakeboatinsurance.com",
+      "quote_url": null,
+      "lead_ready": false
+    }
+  ]
+}

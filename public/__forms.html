@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head><title>Netlify Forms Detection</title></head>
+<body>
+  <!--
+    This file exists ONLY so the @netlify/plugin-nextjs onBuild step can register the
+    site's Netlify Forms during the build. Next.js SSG does not emit a static form that
+    Netlify's build-time crawler can see, so we declare every form here. KEEP THIS FILE.
+    (josh-site-deploy skill: the plugin hard-errors if [[notifications]] reference a form
+    name with no decoy in public/.)
+  -->
+  <form name="lead" netlify netlify-honeypot="bot-field" hidden>
+    <input type="hidden" name="form-name" value="lead" />
+    <input name="bot-field" />
+    <input type="text" name="name" />
+    <input type="email" name="email" />
+    <textarea name="business_type"></textarea>
+  </form>
+</body>
+</html>

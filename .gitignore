@@ -1,0 +1,15 @@
+node_modules
+node_modules*
+.next
+*.purged*
+*.node
+.next/
+node_modules/
+.pnpm-store/
+out/
+*.log
+.env*
+.DS_Store
+
+deploy_key
+deploy_key.pub
