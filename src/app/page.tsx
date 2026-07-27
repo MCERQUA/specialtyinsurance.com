@@ -236,7 +236,7 @@ export default function HomePage() {
           <form
             name="lead"
             method="POST"
-            action="/api/lead"
+            action="/__forms.html"
             data-netlify="true"
             netlify-honeypot="bot-field"
             className="bg-surface-container-lowest rounded-3xl p-7 md:p-9 space-y-4 luxe-shadow"
