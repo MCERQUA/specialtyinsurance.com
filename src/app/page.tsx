@@ -277,6 +277,117 @@ export default function HomePage() {
                 className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface resize-none"
               />
             </div>
+            <div className="grid sm:grid-cols-2 gap-4">
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">Phone *</label>
+                <input
+                  name="phone"
+                  type="tel"
+                  required
+                  placeholder="(555) 000-0000"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">Street address *</label>
+                <input
+                  name="street_address"
+                  type="text"
+                  required
+                  placeholder="123 Main St"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">City *</label>
+                <input
+                  name="city"
+                  type="text"
+                  required
+                  placeholder="City"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">State *</label>
+                <input
+                  name="state"
+                  type="text"
+                  required
+                  placeholder="TX"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">ZIP code *</label>
+                <input
+                  name="zip"
+                  type="text"
+                  required
+                  placeholder="00000"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">FEIN (federal tax ID) *</label>
+                <input
+                  name="fein"
+                  type="text"
+                  required
+                  placeholder="00-0000000"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">Year business started *</label>
+                <input
+                  name="year_business_started"
+                  type="number"
+                  required
+                  placeholder="2015"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">Current or prior carrier *</label>
+                <input
+                  name="prior_carrier_name"
+                  type="text"
+                  required
+                  placeholder="Carrier name"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">Current or prior policy number *</label>
+                <input
+                  name="prior_policy_number"
+                  type="text"
+                  required
+                  placeholder="Policy number"
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+              <div>
+                <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">Policy expiration date *</label>
+                <input
+                  name="prior_policy_expiration"
+                  type="date"
+                  required
+                  className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface"
+                />
+              </div>
+            </div>
+            <div>
+              <label className="block font-label-sm text-on-surface-variant mb-1.5 uppercase tracking-wider">Description of your business (what you do day to day) *</label>
+              <textarea
+                name="business_description"
+                required
+                rows={3}
+                placeholder="Day-to-day operations, locations, who your customers are"
+                className="w-full px-4 py-3 border border-outline-variant rounded-xl text-body-md focus:outline-none focus:border-secondary-container focus:ring-2 focus:ring-secondary-container/20 bg-surface resize-none"
+              />
+            </div>
             <button
               type="submit"
               className="w-full py-3.5 bg-secondary-container text-on-secondary-fixed font-label-md rounded-full hover:brightness-110 transition-all shadow-lg"
